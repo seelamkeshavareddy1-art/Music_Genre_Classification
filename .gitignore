@@ -1,0 +1,11 @@
+@"
+__pycache__/
+*.pyc
+.venv/
+venv/
+dataset/
+*.wav
+*.mp3
+*.ogg
+.ipynb_checkpoints/
+"@ | Set-Content .gitignore
